@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Alpana</h1>
-<h3 align="center">A passionate Web developer.</h3>
+<h3 align="center">A passionate Problem Solver.</h3>
 <img align="right" alt="coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phoenix020903&label=Profile%20views&color=0e75b6&style=flat" alt="phoenix020903" /> </p>
 
 - 🔭 I’m currently pursuing B.Tech in Computer Science **at IIITDM Jabalpur.**
 
-- 🌱 I’m currently learning **React Native and Backend.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
